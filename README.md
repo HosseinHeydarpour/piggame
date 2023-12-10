@@ -35,8 +35,8 @@ Hello everyone! I'm more than excited to share my first mini project with javasc
 
 
 
-- [Solution URL](https://github.com/HosseinHeydarpour/results-summary-component)
-- [Live Site URL](https://hosseinheydarpour.github.io/results-summary-component)
+
+- [Live Site URL](https://hosseinheydarpour.github.io/piggame/)
 
 
 
