@@ -24,6 +24,8 @@ Hello everyone! I'm more than excited to share my first mini project with javasc
 - The first player who gets to 100 will win the game!
 
 
+### screenshot
+
 ![Desktop Design](screenshots/desktop.png)
 
 
